@@ -1,6 +1,6 @@
 # NotEnoughCoins
 NotEnoughCoins is an ah flipping mod for Hypixel Skyblock. NEC, if you couldn't tell is a mod to make you more coins. NEC finds flips in the AH and sends them in your chat. These messages show the item, the profit percentage and the cost.
-How to Install
+# How to Install
 1. Install the latest version of Forge 1.8.9 at its offical website
 2. Launch forge 1.8.9 at least once to create the mods folder
 3. Put the file in the mods folder
