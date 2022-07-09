@@ -6,7 +6,7 @@ NotEnoughCoins is an ah flipping mod for Hypixel Skyblock. NEC, if you couldn't 
 3. Put the file in the mods folder
 4. Launch MC
 5. Upon entering hypixel do /NEC to edit its settings to your liking (you need to have NEC flipper alerts enabled to recieve mesages)
-6. Once you finish, wait for the messages to come.
+6. Once you finish, wait for the messages to come
 
 
 ![image](https://user-images.githubusercontent.com/108932340/177980819-6a7d08ce-6dc9-4a5d-aa34-007f13d29ef9.png)
